@@ -25,14 +25,13 @@ The CNN model architecture consists of the following layers:
 <p>Convolutional layer; 64 nodes, kernel size 3</p>
 <p>Fully connected layer; 128 nodes</p>
 The final layer is also a fully connected layer with 2 nodes. In all the layers, a Relu activation function is used except the output layer in which we used Softmax.
-<h2>steps to detect drowsiness</h2>
 
 <h2>Steps to detect drowsiness</h2>
-<b>Step 1</b> Take image as input from a camera.
-<b>Step 2</b> Detect the face in the image and create a Region of Interest (ROI).
-<b>Step 3</b>  Detect the eyes from ROI and feed it to the classifier.
-<b>Step 4</b>  Classifier will categorize whether eyes are open or closed.
-<b>Step 5</b>  Calculate score to check whether the person is drowsy.
+<p><b>Step 1</b> Take image as input from a camera.</p>
+<p><b>Step 2</b> Detect the face in the image and create a Region of Interest (ROI).</p>
+<p><b>Step 3</b>  Detect the eyes from ROI and feed it to the classifier.</p>
+<p><b>Step 4</b>  Classifier will categorize whether eyes are open or closed.</p>
+<p><b>Step 5</b>  Calculate score to check whether the person is drowsy.</p>
 
 
 
