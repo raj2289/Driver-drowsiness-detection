@@ -1,8 +1,7 @@
 # Driver-drowsiness-detection using CNN
 
 <h2>DATASET</h2>
- we were using Real Life Drowsiness Detection Dataset(RLDD) for training our CNN model.
- Using dataset extactraion code we croped images of eyes which were used for training CNN classification moddel.
+ I was using Real Life Drowsiness Detection Dataset(RLDD) for training our CNN model. Using dataset extraction code we cropped images of eyes that were used for training the CNN classification model.
  <h3>Citation</h3>
 All documents (such as publications, presentations, posters, etc.) that report results, analysis, research, or equivalent that were obtained by using the UTA-RLDD database should cite the following research paper:
 https://arxiv.org/abs/1904.07312
